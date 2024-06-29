@@ -26,22 +26,6 @@ I am a 👨‍💻 **Senior DevOps Engineer** working with **Credgenics(https://
 <a href="#"><img height="32" width="32" src="./images/redis.svg" alt="Redis" title="Redis" /></a>
 <a href="#"><img height="32" width="32" src="./images/apachekafka.svg" alt="Kafka" title="Kafka" /></a>
 
-### 🌱 I have experience on ...
-
-<a href="#"><img height="32" width="32" src="./images/openstack.svg" alt="Openstack" title="Openstack" /></a>
-<a href="#"><img height="32" width="32" src="./images/terraform.svg" alt="Terraform" title="Terraform" /></a>
-<a href="#"><img height="32" width="32" src="./images/jenkins.svg" alt="Jenkins" title="Jenkins" /></a>
-<a href="#"><img height="32" width="32" src="./images/react.svg" alt="ReactJS" title="ReactJS" /></a>
-<a href="#"><img height="32" width="32" src="./images/ansible.svg" alt="Ansible" title="Ansible" /></a>
-<a href="#"><img height="32" width="32" src="./images/ruby.svg" alt="Ruby" title="Ruby" /></a>
-<a href="#"><img height="32" width="32" src="./images/vagrant.svg" alt="Vagrant" title="Vagrant" /></a>
-<a href="#"><img height="32" width="32" src="./images/apachegroovy.svg" alt="Groovy" title="Groovy" /></a>
-<a href="#"><img height="32" width="32" src="./images/gnubash.svg" alt="Bash" title="Bash" /></a>
-<a href="#"><img height="32" width="32" src="./images/nginx.svg" alt="Nginx" title="Nginx" /></a>
-<a href="#"><img height="32" width="32" src="./images/puppet.svg" alt="Puppet" title="Puppet" /></a>
-<a href="#"><img height="32" width="32" src="./images/apachedruid.svg" alt="Druid" title="Druid" /></a>
-<a href="#"><img height="32" width="32" src="./images/vault.svg" alt="Vault" title="Vault" /></a>
-<a href="#"><img height="32" width="32" src="./images/java.svg" alt="Java" title="Java" /></a>
 
 ### :book: Blogs
 
