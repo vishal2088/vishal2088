@@ -12,7 +12,7 @@ I am a 👨‍💻 **Senior DevOps Engineer** working with **[Credgenics](https:
 
 ### 🔭 I’m currently working on ...
 
-<a href="#"><img height="32" width="32" src="./images/k8s.png" alt="Kubernetes" title="Kubernetes" /></a>
+<a href="#"><img height="32" width="32" src="./images/kubernetes.svg" alt="Kubernetes" title="Kubernetes" /></a>
 <a href="#"><img height="32" width="32" src="./images/helm.svg" alt="Helm" title="Helm" /></a>
 <a href="#"><img height="32" width="32" src="./images/docker.svg" alt="Docker" title="Docker" /></a>
 <a href="#"><img height="32" width="32" src="./images/linux.svg" alt="Linux" title="Linux" /></a>
