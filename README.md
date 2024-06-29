@@ -9,6 +9,9 @@ I am a 👨‍💻 DevOps Engineer working with Credgenics. I am interested in D
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/vishal-goel-1253a4201/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+
+<img src="https://www.linkedin.com/in/vishal-goel-1253a4201/" />
 </br>
 
 
