@@ -29,6 +29,6 @@ I am a 👨‍💻 **Senior DevOps Engineer** working with **[Credgenics](https:
 
 ### :book: Blogs
 
-https://vishalgoel.medium.com/
+[https://vishalgoel.medium.com/](https://medium.com/@vgoel2088/is-karpenter-right-choice-for-you-8905c0049b6f)
 
 
